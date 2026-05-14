@@ -2,7 +2,7 @@
 
 <br>
 
-# **Welcome to the official personal GitHub account of 4TH AND BAILEY.**
+# **Enterprise IT Consulting | Houston, TX Service Organizations Nationwide**
 
 We are a boutique Enterprise IT Consulting firm headquartered in Houston, TX — a **Microsoft Cloud Solution Provider (CSP)** serving organizations nationwide that have outgrown commodity IT. Every engagement is founder-led.
 
