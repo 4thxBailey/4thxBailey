@@ -1,4 +1,4 @@
-![4TH AND BAILEY — Principal · Microsoft Cloud Solution Provider](https://raw.githubusercontent.com/4thxBailey/4thxBailey/main/assets/banner-personal.svg)
+![4TH AND BAILEY — Principal · Microsoft Cloud Solution Provider](https://raw.githubusercontent.com/4thxBailey/4thxBailey/main/assets/banner.svg)
 
 <br>
 
