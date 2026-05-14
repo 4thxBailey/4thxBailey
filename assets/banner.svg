@@ -1,1 +1,111 @@
+<svg viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg" width="1200" height="280">
+  <defs>
+    <!-- Deep navy background gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#050E1A;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0A1E35;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#061525;stop-opacity:1" />
+    </linearGradient>
+    <!-- Brand blue accent gradient -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0C447C;stop-opacity:0" />
+      <stop offset="20%" style="stop-color:#0C447C;stop-opacity:1" />
+      <stop offset="80%" style="stop-color:#1A6BB5;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#1A6BB5;stop-opacity:0" />
+    </linearGradient>
+    <!-- Glow for accent elements -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <!-- Subtle grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0C447C" stroke-width="0.3" opacity="0.25"/>
+    </pattern>
+    <!-- Radial glow overlay -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#0C447C;stop-opacity:0.08" />
+      <stop offset="100%" style="stop-color:#0C447C;stop-opacity:0" />
+    </radialGradient>
+  </defs>
 
+  <!-- Background -->
+  <rect width="1200" height="280" fill="url(#bg)"/>
+
+  <!-- Grid texture -->
+  <rect width="1200" height="280" fill="url(#grid)"/>
+
+  <!-- Center glow -->
+  <rect width="1200" height="280" fill="url(#centerGlow)"/>
+
+  <!-- Geometric accent — left vertical bar cluster -->
+  <rect x="72" y="40" width="2" height="200" fill="#0C447C" opacity="0.6"/>
+  <rect x="80" y="70" width="1" height="140" fill="#0C447C" opacity="0.35"/>
+  <rect x="86" y="100" width="1" height="80" fill="#0C447C" opacity="0.2"/>
+
+  <!-- Geometric accent — right vertical bar cluster -->
+  <rect x="1112" y="40" width="2" height="200" fill="#0C447C" opacity="0.6"/>
+  <rect x="1118" y="70" width="1" height="140" fill="#0C447C" opacity="0.35"/>
+  <rect x="1124" y="100" width="1" height="80" fill="#0C447C" opacity="0.2"/>
+
+  <!-- Top accent line -->
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accentLine)"/>
+
+  <!-- Bottom accent line -->
+  <rect x="0" y="277" width="1200" height="3" fill="url(#accentLine)"/>
+
+  <!-- Horizontal mid-rule -->
+  <rect x="110" y="139" width="980" height="1" fill="#0C447C" opacity="0.2"/>
+
+  <!-- Corner brackets — top left -->
+  <path d="M 110 60 L 110 40 L 130 40" fill="none" stroke="#0C447C" stroke-width="1.5" opacity="0.7"/>
+  <!-- Corner brackets — top right -->
+  <path d="M 1090 40 L 1110 40 L 1110 60" fill="none" stroke="#0C447C" stroke-width="1.5" opacity="0.7"/>
+  <!-- Corner brackets — bottom left -->
+  <path d="M 110 220 L 110 240 L 130 240" fill="none" stroke="#0C447C" stroke-width="1.5" opacity="0.7"/>
+  <!-- Corner brackets — bottom right -->
+  <path d="M 1090 240 L 1110 240 L 1110 220" fill="none" stroke="#0C447C" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Small decorative dots -->
+  <circle cx="110" cy="40" r="2.5" fill="#0C447C" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="1110" cy="40" r="2.5" fill="#0C447C" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="110" cy="240" r="2.5" fill="#0C447C" opacity="0.8" filter="url(#glow)"/>
+  <circle cx="1110" cy="240" r="2.5" fill="#0C447C" opacity="0.8" filter="url(#glow)"/>
+
+  <!-- Eyebrow label -->
+  <text x="600" y="88" font-family="'Courier New', monospace" font-size="11" font-weight="400"
+        fill="#1A6BB5" text-anchor="middle" letter-spacing="5" opacity="0.9">
+    PRINCIPAL · MICROSOFT CLOUD SOLUTION PROVIDER
+  </text>
+
+  <!-- Main name — large, authoritative -->
+  <text x="600" y="158" font-family="Georgia, 'Times New Roman', serif" font-size="64" font-weight="700"
+        fill="#FFFFFF" text-anchor="middle" letter-spacing="8">
+    4TH AND BAILEY
+  </text>
+
+  <!-- Subtitle -->
+  <text x="600" y="192" font-family="Georgia, 'Times New Roman', serif" font-size="15" font-weight="400"
+        fill="#7BAFD4" text-anchor="middle" letter-spacing="4" opacity="0.85">
+    INFORMATION TECHNOLOGY CONSULTING
+  </text>
+
+  <!-- Bottom tag line -->
+  <text x="600" y="230" font-family="'Courier New', monospace" font-size="11" font-weight="400"
+        fill="#4A7FA8" text-anchor="middle" letter-spacing="3" opacity="0.7">
+    CLOUD SERVICES  ·  CYBERSECURITY  ·  INFRASTRUCTURE GOVERNANCE  ·  TECHNOLOGY STRATEGY
+  </text>
+
+  <!-- Subtle side accent dots — left -->
+  <circle cx="150" cy="140" r="1.5" fill="#0C447C" opacity="0.5"/>
+  <circle cx="165" cy="140" r="1" fill="#0C447C" opacity="0.3"/>
+  <circle cx="176" cy="140" r="0.8" fill="#0C447C" opacity="0.2"/>
+
+  <!-- Subtle side accent dots — right -->
+  <circle cx="1050" cy="140" r="1.5" fill="#0C447C" opacity="0.5"/>
+  <circle cx="1035" cy="140" r="1" fill="#0C447C" opacity="0.3"/>
+  <circle cx="1024" cy="140" r="0.8" fill="#0C447C" opacity="0.2"/>
+</svg>
