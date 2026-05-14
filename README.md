@@ -1,4 +1,4 @@
-![4TH AND BAILEY — Founder · Microsoft Cloud Solution Provider](https://raw.githubusercontent.com/4thxBailey/4thxBailey/main/assets/banner.png)
+![4TH AND BAILEY — Founder · Microsoft Cloud Solution Provider](https://raw.githubusercontent.com/4thxBailey/4thxBailey/main/assets/banner.svg)
 
 <br>
 
