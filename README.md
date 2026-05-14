@@ -2,7 +2,7 @@
 
 <br>
 
-# **Enterprise IT Consulting | Houston, TX | Service Organizations Nationwide**
+# **Enterprise IT Consulting | Houston, TX | Servicing Organizations Nationwide**
 
 We are a boutique Enterprise IT Consulting firm headquartered in Houston, TX — a **Microsoft Cloud Solution Provider (CSP)** serving organizations nationwide that have outgrown commodity IT. Every engagement is founder-led.
 
