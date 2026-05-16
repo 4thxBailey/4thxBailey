@@ -2,11 +2,11 @@
 
 <br>
 
-# **Enterprise IT Consulting | Houston, TX | Servicing Organizations Nationwide**
+# Enterprise IT Consulting | Houston, TX | Servicing Organizations Nationwide
 
-We are a boutique Enterprise IT Consulting firm headquartered in Houston, TX — a **Microsoft Cloud Solution Provider (CSP)** serving organizations nationwide that have outgrown commodity IT. Every engagement is founder-led.
+4th and Bailey is a boutique enterprise IT consulting firm headquartered in Houston, TX — a **Microsoft Cloud Solution Provider (CSP)** serving organizations nationwide that have outgrown commodity IT. Every engagement is founder-led.
 
-### 👉 Tools, resources, and our firm profile: [github.com/4thandBailey](https://github.com/4thandBailey)
+### 👉 Tools, frameworks, and our firm profile: [github.com/4thandBailey](https://github.com/4thandBailey)
 
 ---
 
@@ -14,6 +14,7 @@ We are a boutique Enterprise IT Consulting firm headquartered in Houston, TX —
 
 | Resource | Description |
 |----------|-------------|
+| [**Infrastructure Placement Framework**](https://framework.4thandbailey.com) | Vendor-neutral, open-source enterprise IT framework for cloud migration, cloud repatriation, workload placement, cybersecurity resilience, AI governance, BYOD strategy, and collaboration platform decisions. NIST-aligned. |
 | [**Microsoft 365 PowerShell Tools**](https://github.com/4thandBailey/tools) | Free, open-source M365 administration scripts built on Microsoft Graph API v1.0 — MFA reporting, inactive user detection, license optimization, mailbox statistics, and group membership auditing. |
 | [**Organization Profile**](https://github.com/4thandBailey/.github) | Live CISA Known Exploited Vulnerability feed, firm profile, and org-wide security policies. |
 
@@ -49,4 +50,4 @@ Our tooling spans open-source community resources and proprietary intellectual p
 
 ---
 
-<sub>Enterprise IT Consulting · Microsoft CSP · Microsoft 365 Consulting · Cybersecurity · Infrastructure Governance · Cloud Services · Houston, TX · Serving organizations nationwide · <a href="https://github.com/4thandBailey">4thandBailey on GitHub</a></sub>
+<sub>Enterprise IT Consulting · Microsoft CSP · Microsoft 365 Consulting · Cybersecurity · Infrastructure Governance · Cloud Services · Cloud Migration · Cloud Repatriation · AI Governance · NIST · BYOD · Houston, TX · Serving organizations nationwide · CIO Advisory · IT Director · InfoSec · <a href="https://github.com/4thandBailey">4thandBailey on GitHub</a> · <a href="https://framework.4thandbailey.com">Infrastructure Placement Framework</a></sub>
