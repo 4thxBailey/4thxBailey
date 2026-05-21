@@ -16,7 +16,7 @@
 |----------|-------------|
 | [**Houston Alert**](https://devops.houstonalert.com/) | Real-time road, flood & emergency monitoring for 160 Houston metro ZIP codes. Built by 4th and Bailey. |
 | [**Infrastructure Placement Framework**](https://framework.4thandbailey.com) | Vendor-neutral, open-source enterprise IT framework for cloud migration, cloud repatriation, workload placement, cybersecurity resilience, AI governance, BYOD strategy, and collaboration platform decisions. NIST-aligned. |
-| [**Shopify ↔ Sage BusinessWorks Middleware Agent**](https://github.com/4thandBailey/shopify-bw-agent) | Windows background service that automatically synchronizes data between Shopify and Sage BusinessWorks  |
+| [**Shopify ↔ Sage BusinessWorks Middleware Agent**](https://github.com/4thandBailey/shopify-bw-agent) | Windows background service that automatically synchronizes data between Shopify and Sage BusinessWorks.  |
 | [**Microsoft 365 PowerShell Tools**](https://github.com/4thandBailey/tools) | Free, open-source M365 administration scripts built on Microsoft Graph API v1.0 — MFA reporting, inactive user detection, license optimization, mailbox statistics, and group membership auditing. |
 | [**Organization Profile**](https://github.com/4thandBailey/.github) | Live CISA Known Exploited Vulnerability feed, firm profile, and org-wide security policies. |
 
